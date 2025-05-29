@@ -298,6 +298,23 @@ video {
   z-index: 5;
 }
 
+.home__button span {
+  font-weight: var(--font-semi-bold);
+}
+
+.home__button i{
+  font-size: 1.5rem;
+}
+
+.home__swiper {
+  position: relative;
+}
+
+.home__img {
+  width: 300px;
+  margin-inline: auto;
+}
+
 /* Swiper class */
 
 
